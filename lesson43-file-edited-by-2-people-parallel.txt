@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Changed by person B
+=======
+Changed by person A Smith
+>>>>>>> 715e4808e9f01d30d16fd7298b442d2fa5f6fcea
